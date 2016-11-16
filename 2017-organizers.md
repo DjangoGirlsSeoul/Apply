@@ -15,7 +15,7 @@ The term for organizers is one year.
 * Event Collaboration with other tech communities
 
 ## Django Girls Seoul Organizers
-This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future) New organizer team will serve for one-year 2017.
+This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future). New organizer team will serve for one-year 2017.
 
 *You should probably work :*
 * Work closely with Django Girls Foundation, Django Girls Supporters, Company Sponsors, other tech Communities.
@@ -30,7 +30,7 @@ This is non-paid, fully volunteering working 3-4 hours a week (this may change i
 
 *You should probably have :*
 * A strong passion for learning python & Django primarily more than other programming languages.
-* A fluent command of English, emojis.
+* A fluent command of English, [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/).:sparkling_heart:
 * Great organizational skills.
 * A can-do attitude and plenty of enthusiasm.
 * Effective, friendly and strong communication skills.
@@ -52,14 +52,14 @@ This is non-paid, fully volunteering working 3-4 hours a week (this may change i
 * have ideas and suggestions on how we can improve diversity in Korea IT area, and are ready to help make them a reality with communities
 * have some tech events and conference experience
 
-If you feel confident you can fulfill all of the above, then this is definitely a position for you.
-Even if you don’t tick all the boxes, please feel free to apply if you believe you have the aptitude and drive to learn quickly.
-
-*Perks & benefits: *
+*Perks & benefits:*
 * opportunity to shape the future of a fast growing non-profit organization
 * work with fun, friendly and like-minded people/developers
 * opportunity to travel and represent Django Girls Seoul Community initiative at conferences and events
 
+If you feel confident you can fulfill all of the above, then this is definitely a position for you.
+
 # How to apply
 Please visit this Link and fill out application in English.
+We will review your application as soon as possible with other oganizers and ask causal meeting with :coffee:
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
