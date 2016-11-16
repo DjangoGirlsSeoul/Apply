@@ -17,7 +17,7 @@ The term for organizers is one year.
 ## Django Girls Seoul Organizers
 This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future). New organizer team will serve for 2017.
 
-*You should probably work :*
+*You should probably work:*
 * Work closely with Django Girls Foundation, Django Girls Supporters, Company Sponsors, other tech Communities.
 * Run Django Girls Official Workshop for two times in a year.
 * Manage Monthly Django/Python Seminar with Microsoft Korea.
@@ -28,7 +28,7 @@ This is non-paid, fully volunteering working 3-4 hours a week (this may change i
 ( Deliver ideas and Build structures, process, and guidance with new organizers to make sustainable community.
 
 
-*You should probably have :*
+*You should probably have:*
 * A strong passion for learning python & Django primarily more than other programming languages.
 * A fluent command of English, [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/).:sparkling_heart:
 * Great organizational skills.
@@ -61,7 +61,5 @@ If you feel confident you can fulfill all of the above, then this is definitely 
 
 # How to apply
 Please visit this Link and fill out application in English.
-
-We will review your application as soon as possible with other oganizers and ask causal meeting with :coffee:
-
+We will review your application as soon as possible with other oganizers and ask for a causal meeting with :coffee:.
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
