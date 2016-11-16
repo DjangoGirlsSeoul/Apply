@@ -1,6 +1,6 @@
 # Django Girls Seoul is hiring! Become our Awesomeness New Organizers for next year!
 
-> This announcement is inspired by the page “Awesomeness Ambassador” by Django Girls Foundation
+> This announcement is inspired by the recruiting page [“Awesomeness Ambassador”](https://djangogirls.org/pages/awesomness-ambassador/) by Django Girls Foundation
 
 Django Girls Seoul Community seeks three organizers to support community activities and to build a powerful movement for diversity in Tech field in Korea.
 Django Girls is a non-profit organization which aims to empower and help women organize free, one-day programming workshops by providing tools, resources and support. It’s a volunteer run initiative which inspires women to become developers.
@@ -15,7 +15,7 @@ The term for organizers is one year.
 * Event Collaboration with other tech communities
 
 ## Django Girls Seoul Organizers
-This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future). New organizer team will serve for one-year 2017.
+This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future). New organizer team will serve for 2017.
 
 *You should probably work :*
 * Work closely with Django Girls Foundation, Django Girls Supporters, Company Sponsors, other tech Communities.
@@ -61,5 +61,7 @@ If you feel confident you can fulfill all of the above, then this is definitely 
 
 # How to apply
 Please visit this Link and fill out application in English.
+
 We will review your application as soon as possible with other oganizers and ask causal meeting with :coffee:
+
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
