@@ -57,7 +57,7 @@ This is non-paid, fully volunteering working 3-4 hours a week (this may change i
 * work with fun, friendly and like-minded people/developers
 * opportunity to travel and represent Django Girls Seoul Community initiative at conferences and events
 
-If you feel confident you can fulfill all of the above, then this is definitely a position for you.
+If you feel confident and you can fulfill all of the above, then this is definitely a position for you.
 
 # How to apply
 Please visit this Link and fill out application in English.
