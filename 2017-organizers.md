@@ -15,7 +15,7 @@ The term for organizers is one year.
 * Event Collaboration with other tech communities
 
 ## Django Girls Seoul Organizers
-This is non-paid, fully volunteering working 3-4 hours a week (this may change in the future). New organizer team will serve for 2017.
+This is non-paid, fully volunteering working and new team consists of seven organizers will serve for 2017.
 
 *You should probably work:*
 * Work closely with Django Girls Foundation, Django Girls Supporters, Company Sponsors, other tech Communities.
@@ -26,7 +26,6 @@ This is non-paid, fully volunteering working 3-4 hours a week (this may change i
 * Translate Django Girls Workshop Organizer Manuel with Django Girls Daejeon community
 * Develop and manage Django Girls Website 
 ( Deliver ideas and Build structures, process, and guidance with new organizers to make sustainable community.
-
 
 *You should probably have:*
 * A strong passion for learning python & Django primarily more than other programming languages.
