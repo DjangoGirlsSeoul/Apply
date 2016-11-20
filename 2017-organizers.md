@@ -59,6 +59,6 @@ This is non-paid, fully volunteering working and new team consists of seven orga
 If you feel confident and you can fulfill all of the above, then this is definitely a position for you.
 
 # How to apply
-Please visit this Link and fill out application in English.
+Please visit this *[Link](https://goo.gl/dCqFDe)* and fill out application in English.
 We will review your application as soon as possible with other oganizers and ask for a causal meeting with :coffee:.
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
