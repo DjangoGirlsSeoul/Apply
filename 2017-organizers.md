@@ -9,9 +9,9 @@ As a part of Django / Django Girls Community,  Django Girls Seoul was started th
 Currently all events and workshops are run for free by passionate organizers, excellent coaches and volunteers. 
 The term for organizers is one year.
 
-*Our main activities are (from the highest priority):*
+*Our main activities are:*
 * [Django Girls Tutorial Workshop](https://djangogirls.org/seoul/)
-* [Django Girls Seoul Montly Semina](https://github.com/DjangoGirlsSeoul/seminar)
+* [Django Girls Seoul Montly Seminar](https://github.com/DjangoGirlsSeoul/seminar)
 * [Weekly Python and Django Study Meetup](https://goo.gl/J6WL8S)
 * Event Collaboration with other tech communities
 
