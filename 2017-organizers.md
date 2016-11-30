@@ -11,7 +11,7 @@ The term for organizers is one year.
 
 *Our main activities are:*
 * [Django Girls Tutorial Workshop](https://djangogirls.org/seoul/)
-* [Django Girls Seoul Montly Seminar](https://github.com/DjangoGirlsSeoul/seminar)
+* [Django Girls Seoul Monthly Seminar](https://github.com/DjangoGirlsSeoul/seminar)
 * [Weekly Python and Django Study Meetup](https://goo.gl/J6WL8S)
 * Event Collaboration with other tech communities
 
@@ -61,7 +61,7 @@ If you feel confident and you can fulfill all of the above, then this is definit
 
 # How to apply
 Please visit this *[Link](https://goo.gl/dCqFDe)* and fill out application in English.
-We will review your application as soon as possible with other oganizers and ask for a causal meeting with :coffee:.
+We will review your application as soon as possible with other organizers and ask for a causal meeting with :coffee:.
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
 
 > Edited by Sujin Lee in Django Girls Seoul Team
