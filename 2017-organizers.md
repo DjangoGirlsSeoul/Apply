@@ -61,7 +61,7 @@ If you feel confident and you can fulfill all of the above, then this is definit
 
 # How to apply
 Please visit this *[Link](https://goo.gl/dCqFDe)* and fill out application in English.
-We will review your application as soon as possible with other organizers and ask for a causal meeting with :coffee:.
+We will review your application as soon as possible with other organizers and ask for a casual meeting with :coffee:.
 If you want to know more about our organization or organizers, please send mail us. seoul@djangogirls.org
 
 > Edited by Sujin Lee in Django Girls Seoul Team
